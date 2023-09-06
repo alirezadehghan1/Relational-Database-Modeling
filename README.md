@@ -1,2 +1,4 @@
 # Relational-Database-Modeling
 Entity Relationship Diagramming and Database Creation for Steel Company Sales via MS Access
+
+Designed and implemented a relational database using Access to manage steel product sales for a company, including entities for organizations, users, products, shipments and orders. Developed an entity relationship diagram to model data relationships. Implemented the schema in Access, defining tables, relationships, queries, forms and reports to track inventory, orders, customers and providers. Added features like auto-populating order times, masking passwords, constraining inputs, and calculating costs. Created queries, forms and reports to analyze sales, view order details, and manage users and providers. The database provides a robust system to manage the company's core sales operations and extract insights.
